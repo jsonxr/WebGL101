@@ -1,10 +1,12 @@
-# The WebGL 101
+# WebGL 101
+Code files that accompany the video tutorial located at: https://www.youtube.com/watch?v=me3BviH3nZc
 
-## Install
+To Install
+
     npm install
     npm start
 
-Open browser to:
+Point browser to:
   http://localhost:3000
 
 ## samples available live at
