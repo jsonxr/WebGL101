@@ -1,4 +1,13 @@
-The WebGL 101 samples are available live at
+# The WebGL 101
+
+## Install
+    npm install
+    npm start
+
+Open browser to:
+  http://localhost:3000
+
+## samples available live at
 http://emoller.github.com/WebGL101/01-minimal.html
 http://emoller.github.com/WebGL101/02-minimal-draw.html
 http://emoller.github.com/WebGL101/03-minimal-shader.html
